@@ -1,5 +1,5 @@
 {
-    "name": "BorisMoore/jsrender",
+    "name": "fuhry/jsrender",
     "description": "A lightweight but powerful templating engine, highly extensible, without DOM or jQuery dependency.",
     "type": "component",
     "homepage": "http://www.jsviews.com/",
