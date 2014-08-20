@@ -1,0 +1,22 @@
+{
+    "name": "BorisMoore/jsrender",
+    "description": "A lightweight but powerful templating engine, highly extensible, without DOM or jQuery dependency.",
+    "type": "component",
+    "homepage": "http://www.jsviews.com/",
+    "license": "MIT",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "jsrender.js"
+            ],
+            "files": [
+                "jsrender.min.js",
+                "jsrender.min.js.map"
+            ]
+        }
+    }
+}
+
